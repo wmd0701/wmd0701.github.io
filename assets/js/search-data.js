@@ -421,6 +421,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-attended-dsp-25-in-messinia-greece-and-visited-santorini-ocean",
           title: 'I attended DSP-25 in Messinia, Greece and visited Santorini. :ocean:',
           description: "",
+          section: "News",},{id: "news-i-served-as-the-program-committee-for-aaai-26",
+          title: 'I served as the Program Committee for AAAI-26.',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -471,35 +474,35 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%6D%65%6E%67%64%69(%64%6F%74)%77%61%6E%67(%61%74)%74%75%6D(%64%6F%74)%64%65", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://github.com/wmd0701", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=elyj9lsAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-youtube',
+        title: 'YouTube',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://youtube.com/@quovadisx", "_blank");
         },
       },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.edu.sot.tum.de/hctl/team/phd-researchers/mengdi-wang/", "_blank");
         },
       },{
       id: 'light-theme',
