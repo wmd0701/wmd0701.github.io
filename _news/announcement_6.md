@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I married the love of my life. 💞 :revolving_hearts:
+I married the love of my life. :revolving_hearts:
