@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-moved-to-dresden-germany-and-started-my-german-courses-b2-c1-at-tu-dresden",
+          title: 'I moved to Dresden, Germany and started my german courses (B2 - C1)...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-moved-to-munich-germany-and-started-my-bachelor-at-technical-university-of-munich-majored-in-informatik-games-engineering",
+          title: 'I moved to Munich, Germany and started my bachelor at Technical University of...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-moved-to-zurich-switzerland-and-started-my-master-at-eth-zürich-majored-in-computer-science",
+          title: 'I moved to Zurich, Switzerland and started my master at ETH Zürich, majored...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
