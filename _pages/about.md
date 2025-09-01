@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am Mengdi, nice to meet you! I am currently a PhD candidate and research assistant under the supervision of Prof. Dr. Enkelejda Kasneci at the Chair of Human-Centered Technologies for Learning, Technical University of Munich. I earned my master degree of Computer Science at ETH Zürich and bachelor degree of Informatik: Games Engineering at Technical University of Munich. 
+Hi! I am Mengdi, nice to meet you! I am currently a PhD candidate and research assistant under the supervision of Prof. Dr. Enkelejda Kasneci at the Chair of Human-Centered Technologies for Learning, Technical University of Munich. 
 
-My research focuses on federated learning, split learning, computer vision, and general deep learning. My overarching goal is to address privacy issues inside/via machine learning. 
+I earned my master degree of Computer Science at ETH Zürich and bachelor degree of Informatik: Games Engineering at Technical University of Munich. 
+
+My research focuses on distributed collaborative learning paradigms (e.g., federated learning and split learning), computer vision (e.g., style transfer), and general deep learning. My overarching goal is to address privacy issues inside/via machine learning. 
