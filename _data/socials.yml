@@ -51,6 +51,6 @@ scholar_userid: elyj9lsAAAAJ # your Google Scholar ID
 youtube_id: quovadisx # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.see-project.eu/storage/app/uploads/public/614/4ac/488/6144ac488b51c665750238.png # https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+  logo: https://portal.mytum.de/ccc/newsletter/tum-logo/getThumb?size=big  # https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
   title: Custom Social
   url: https://www.edu.sot.tum.de/hctl/team/phd-researchers/mengdi-wang/
