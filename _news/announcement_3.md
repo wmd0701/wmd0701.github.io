@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I moved to Zurich, Switzerland and started my master at ETH Zürich, majored in Computer Science.
+I moved to Zurich, Switzerland and started my master at ETH Zurich, majored in Computer Science.
