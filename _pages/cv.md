@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: resume.pdf # you can also use external links here
-description: :paperclip:
+description: My resume here :)
 toc:
   sidebar: left
 ---
