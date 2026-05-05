@@ -31,4 +31,4 @@ Hi! I am Mengdi, nice to meet you! I am currently a PhD candidate and research a
 
 I earned my master degree of Computer Science at ETH Zurich and bachelor degree of Informatik: Games Engineering at Technical University of Munich. 
 
-My research focuses on distributed collaborative learning paradigms (e.g., federated learning and split learning), computer vision (e.g., style transfer), and general deep learning. My overarching goal is to address privacy issues inside/via machine learning. 
+My research focus includes collaborative ML, eye tracking, privacy, XR, and LLM. My overarching goal is to address privacy issues inside/via machine learning. 
